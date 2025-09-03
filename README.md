@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌸 Hi there! 🌸
 
 <!--
 **cherronG/cherronG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Cherron, a biochemistry graduate transitioning into bioinformatics, aiming to combine strong molecular science foundations with rapidly developing computational expertise. I am currently pursuing a Master's in Bioinformatics at Northeastern University to bridge biology and data science in solving complex biological problems. Nice to meet you!
